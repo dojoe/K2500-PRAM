@@ -7,7 +7,7 @@ A P/RAM extension remake for Kurzweil K2500 synthesizers
 
 ## Why?
 
-Because people are demanding upwards of 100$ on eBay for a part that is simple to make and costs about 10$.
+Because people are demanding upwards of 100$ on eBay for a part that is simple to make and costs about 20$.
 
 ## How?
 
@@ -17,15 +17,11 @@ With that, the only tricky part is to get all those wires routed while keeping a
 
 ## Compatibility
 
-We tested this in a K2500 and it works like a charm.
+We tested this in a K2500 and it works like a charm. It also works if you have a KDFX installed, it'll fit nicely next to the KDFX board and won't clash with it.
 
-This will _only_ work in a K2500. It is __not compatible__ with the K2000, that one needs a completely different board.
+This will _only_ work in a K2500. It is __not compatible__ with the K2000 or the K2600, these both need completely different boards.
 
-Depending on how you install it, it may physically clash with a KDFX board. We couldn't try it since we don't have a KDFX,
-so if you do, please tell us about it.
-
-And of course I will assume no responsibility for any problems or damage that may arise from you making your own P/RAM from this
-design and trying it in a synth. Duh ;)
+And of course I will assume no responsibility for any problems or damage that may arise from you making your own P/RAM from this design and trying it in a synth. Duh ;)
 
 ## The board
 
@@ -51,8 +47,7 @@ Unfortunately these guys are expensive, but not prohibitively so.
 
 ## Assembly and installation
 
-Solder everything up, pin header last. You can mount the pin header through the holes for a 90 degree angle (or use right-angle
-headers), or flat onto the pads for an SMD-like connection - I did the latter so the board stands upright on the K2500 mainboard:
+Solder everything up, pin header last. You need to mount the header so that the pins are in the same plane as the board, so you either need right-angle headers, or you mount the pin header flat onto the pads for an SMD-like connection. In the end the PRAM board should stand upright on the K2500 mainboard:
 
 ![Board installed in a K2500](doc/installed.jpg)
 
