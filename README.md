@@ -42,7 +42,7 @@ out there, but the AS6C4008 is cheap and works. Here's the full BOM, almost too 
 | Designator | Description                       | Digikey part#      | Mouser part#              |
 |------------|-----------------------------------|--------------------|---------------------------|
 | U1, U2     | Alliance Memory AS6C4008-55ZIN    | 1450-1031-ND       | 913-AS6C4008-55ZIN        |
-| J1         | Precision pin header, 45pos, 0.1" | e.g. 1212-1769-ND  | e.g. 437-8008006410001101 |
+| J1         | Precision pin header, 45pos, 0.1" | e.g. 1212-1176-ND  | e.g. 437-8008006410001101 |
 | C1, C2     | Ceramic Cap X7R 0603 100nF        | ehh                | whatevs                   |
 | C3, C4     | Ceramic Cap X7R 0805 1uF          | go find it         | anything goes             |
 
