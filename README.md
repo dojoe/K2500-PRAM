@@ -59,3 +59,7 @@ If you can afford taking the processor board out of the K2500, I recommend plugg
 and then soldering the PRAM board to the pin header while it's in the socket. That will keep the pins aligned during
 soldering.
 
+Note that the suggested part number for J1 (1212-1176-ND) has pins that are different thicknesses on either end, and the K2500's
+PRAM socket is very tight. The pin header has to be soldered on "upside down" - i.e.: with the longer, thicker sides of the pins
+soldered to the PRAM board, and the shorter, thinner sides of the pins used to insert into the socket.
+
