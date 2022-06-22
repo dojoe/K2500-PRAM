@@ -7,7 +7,7 @@ A P/RAM extension remake for Kurzweil K2500 synthesizers
 
 ## Why?
 
-Because people are demanding upwards of 100$ on eBay for a part that is simple to make and costs about 20$.
+Because people are demanding upwards of 100<span>$</span> on eBay for a part that is simple to make and costs about 20<span>$</span>.
 
 ## How?
 
